@@ -1,0 +1,4 @@
+Types of Recursion
+Direct : function is calling itself.  ( we will only deal with this)s
+indirect :
+Tail :
